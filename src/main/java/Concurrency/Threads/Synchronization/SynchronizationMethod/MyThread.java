@@ -1,4 +1,4 @@
-package Concurrency.Threads.Synchronization;
+package Concurrency.Threads.Synchronization.SynchronizationMethod;
 
 
 class MyThread extends Thread {

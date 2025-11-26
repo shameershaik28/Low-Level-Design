@@ -1,6 +1,6 @@
-package Concurrency.Threads.Synchronization;
+package Concurrency.Threads.Synchronization.SynchronizationBlock;
 
-public class SyncExample {
+public class SyncBlockExample {
     public static void main(String[] args) throws Exception {
 
         Counter c = new Counter();
@@ -11,8 +11,8 @@ public class SyncExample {
         t1.start();
         t2.start();
 
-          t1.join();
-          t2.join();
+        t1.join();
+        t2.join();
 
         System.out.println("Final Count = " + c.count);
     }
