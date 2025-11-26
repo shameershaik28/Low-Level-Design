@@ -1,0 +1,9 @@
+package OOPS.Polymorphism.MethodOverriding;
+
+public class Cat extends Animal {
+
+    @Override
+    void sound(){
+        System.out.println("Cat meows");
+    }
+}
