@@ -1,0 +1,14 @@
+package Concurrency.Threads.Atomic.AtomicBoolean;
+
+public class AtomicBooleanExample {
+    public static void main(String[] args) {
+
+        Door door = new Door();
+
+        new Person(door).start();
+        new Person(door).start();
+        new Person(door).start();
+        new Person(door).start();
+    }
+}
+
