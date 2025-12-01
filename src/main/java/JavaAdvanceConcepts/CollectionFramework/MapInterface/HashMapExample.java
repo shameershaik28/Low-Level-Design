@@ -1,4 +1,4 @@
-package JavaAdvanceConcepts.JavaCollectionFramework.MapInterface;
+package JavaAdvanceConcepts.CollectionFramework.MapInterface;
 
 import java.util.*;
 

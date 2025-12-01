@@ -1,4 +1,4 @@
-package JavaAdvanceConcepts.JavaCollectionFramework.ListInterface;
+package JavaAdvanceConcepts.CollectionFramework.ListInterface;
 
 import java.util.*;
 

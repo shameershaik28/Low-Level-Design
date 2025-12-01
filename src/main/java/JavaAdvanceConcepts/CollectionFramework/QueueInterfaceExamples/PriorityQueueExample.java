@@ -1,4 +1,4 @@
-package JavaAdvanceConcepts.JavaCollectionFramework.QueueInterfaceExamples;
+package JavaAdvanceConcepts.CollectionFramework.QueueInterfaceExamples;
 
 import java.util.*;
 

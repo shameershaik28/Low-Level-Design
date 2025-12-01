@@ -1,4 +1,4 @@
-package JavaAdvanceConcepts.JavaCollectionFramework.SetInterface;
+package JavaAdvanceConcepts.CollectionFramework.SetInterface;
 
 import java.util.*;
 
