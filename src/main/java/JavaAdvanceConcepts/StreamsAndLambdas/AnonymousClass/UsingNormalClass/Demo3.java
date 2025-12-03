@@ -1,4 +1,4 @@
-package OOPS.AnonymousClass.UsingNormalClass;
+package JavaAdvanceConcepts.StreamsAndLambdas.AnonymousClass.UsingNormalClass;
 
 class Printer {
     void print() {

@@ -1,4 +1,4 @@
-package OOPS.AnonymousClass.UsingAnAbstractClass;
+package JavaAdvanceConcepts.StreamsAndLambdas.AnonymousClass.UsingAnAbstractClass;
 
 abstract class Shape {
     abstract void draw();

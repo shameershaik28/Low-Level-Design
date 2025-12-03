@@ -1,4 +1,4 @@
-package OOPS.Comparable;
+package JavaAdvanceConcepts.StreamsAndLambdas.Comparable;
 
 class Student implements Comparable<Student> {
 

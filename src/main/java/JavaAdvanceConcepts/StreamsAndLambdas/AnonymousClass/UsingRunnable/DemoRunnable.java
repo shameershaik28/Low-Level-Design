@@ -1,4 +1,4 @@
-package OOPS.AnonymousClass.UsingRunnable;
+package JavaAdvanceConcepts.StreamsAndLambdas.AnonymousClass.UsingRunnable;
 
 public class DemoRunnable {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package OOPS.AnonymousClass.UsingAnInterface;
+package JavaAdvanceConcepts.StreamsAndLambdas.AnonymousClass.UsingAnInterface;
 
 interface Animal {
     void sound();

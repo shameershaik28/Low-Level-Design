@@ -1,4 +1,4 @@
-package OOPS.Comparable;
+package JavaAdvanceConcepts.StreamsAndLambdas.Comparable;
 
 class Word implements Comparable<Word> {
     String text;
