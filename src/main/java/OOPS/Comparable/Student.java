@@ -1,4 +1,4 @@
-package OOPS.Interface.ComparableInterface;
+package OOPS.Comparable;
 
 class Student implements Comparable<Student> {
 

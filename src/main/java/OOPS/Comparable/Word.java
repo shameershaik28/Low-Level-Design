@@ -1,4 +1,4 @@
-package OOPS.Interface.ComparableInterface;
+package OOPS.Comparable;
 
 class Word implements Comparable<Word> {
     String text;
