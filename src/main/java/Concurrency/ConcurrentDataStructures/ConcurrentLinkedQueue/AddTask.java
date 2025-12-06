@@ -1,4 +1,4 @@
-package Concurrency.Threads.ConcurrentDataStructures.ConcurrentLinkedQueue;
+package Concurrency.ConcurrentDataStructures.ConcurrentLinkedQueue;
 
 import java.util.concurrent.ConcurrentLinkedQueue;
 

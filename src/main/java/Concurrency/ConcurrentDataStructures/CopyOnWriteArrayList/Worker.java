@@ -1,4 +1,4 @@
-package Concurrency.Threads.ConcurrentDataStructures.CopyOnWriteArrayList;
+package Concurrency.ConcurrentDataStructures.CopyOnWriteArrayList;
 
 import java.util.concurrent.CopyOnWriteArrayList;
 

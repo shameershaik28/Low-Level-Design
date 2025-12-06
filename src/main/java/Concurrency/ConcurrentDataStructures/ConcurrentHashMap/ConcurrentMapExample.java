@@ -1,4 +1,4 @@
-package Concurrency.Threads.ConcurrentDataStructures.ConcurrentHashMap;
+package Concurrency.ConcurrentDataStructures.ConcurrentHashMap;
 
 import java.util.concurrent.ConcurrentHashMap;
 

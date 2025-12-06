@@ -1,11 +1,11 @@
-package Concurrency.Threads.ConcurrentDataStructures.BlockingQueue;
+package Concurrency.ConcurrentDataStructures.BlockingQueue;
 
 import java.util.concurrent.BlockingQueue;
 
-class Consumer extends Thread {
+class Producer extends Thread {
     BlockingQueue<Integer> queue;
 
-    Consumer(BlockingQueue<Integer> queue) {
+    Producer(BlockingQueue<Integer> queue) {
         this.queue = queue;
     }
 
@@ -13,8 +13,8 @@ class Consumer extends Thread {
     public void run() {
         try {
             for (int i = 1; i <= 5; i++) {
-                int item = queue.take();  // waits if queue is empty
-                System.out.println("Consumed: " + item);
+                queue.put(i);   // waits if queue is full
+                System.out.println("Produced: " + i);
             }
         } catch (Exception e) {
             e.printStackTrace();
