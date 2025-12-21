@@ -1,4 +1,4 @@
-package LLD2.DesignPatterns.Registry;
+package LLD2.DesignPatterns.CreationalType.Registry;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -2,11 +2,23 @@ package LLD1.JavaAdvanceConcepts.ExceptionHandlingAndMiscellaneousTopics.Checked
 
 import java.io.*;
 
-public class CheckedExample2 {
+public class HandlingCheckedExceptionsExample {
 
-    public static void main(String[] args) throws FileNotFoundException {
-        //Using Throws Keyword
-        FileReader fr = new FileReader("data.txt"); // still must be handled
+    // Option 1: Using throws keyword
+    // public static void main(String[] args) throws FileNotFoundException {
+    //     FileReader fr = new FileReader("myfile.txt");
+    // }
+
+
+
+    // Option 2: Using try-catch (recommended)
+    public static void main(String[] args) {
+
+        try {
+            FileReader fr = new FileReader("myfile.txt");
+        } catch (FileNotFoundException e) {
+            System.out.println("File not found!");
+        }
     }
 }
 

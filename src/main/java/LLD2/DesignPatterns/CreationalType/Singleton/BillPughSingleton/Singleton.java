@@ -1,4 +1,4 @@
-package LLD2.DesignPatterns.Singleton.BillPughSingleton;
+package LLD2.DesignPatterns.CreationalType.Singleton.BillPughSingleton;
 
 class Singleton {
 

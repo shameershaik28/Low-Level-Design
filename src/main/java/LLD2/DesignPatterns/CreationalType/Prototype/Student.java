@@ -1,4 +1,4 @@
-package LLD2.DesignPatterns.Prototype;
+package LLD2.DesignPatterns.CreationalType.Prototype;
 
 class Student implements Prototype {
 

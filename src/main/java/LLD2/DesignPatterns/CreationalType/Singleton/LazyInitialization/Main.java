@@ -1,4 +1,4 @@
-package LLD2.DesignPatterns.Singleton.LazyInitialization;
+package LLD2.DesignPatterns.CreationalType.Singleton.LazyInitialization;
 
 public class Main {
     public static void main(String[] args) {

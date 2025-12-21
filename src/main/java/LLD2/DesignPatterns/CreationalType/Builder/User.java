@@ -1,4 +1,4 @@
-package LLD2.DesignPatterns.Builder;
+package LLD2.DesignPatterns.CreationalType.Builder;
 
 class User {
 

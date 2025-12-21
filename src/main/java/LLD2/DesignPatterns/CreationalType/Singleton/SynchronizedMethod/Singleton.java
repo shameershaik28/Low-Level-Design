@@ -1,4 +1,4 @@
-package LLD2.DesignPatterns.Singleton.SynchronizedMethod;
+package LLD2.DesignPatterns.CreationalType.Singleton.SynchronizedMethod;
 
 class Singleton {
 

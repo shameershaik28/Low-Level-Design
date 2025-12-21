@@ -1,4 +1,6 @@
 package LLD2.DesignPatterns.BehavioralType.Strategy.Example1;
 
-public class PaymentStrategy {
+interface PaymentStrategy {
+    void pay(int amount);
 }
+

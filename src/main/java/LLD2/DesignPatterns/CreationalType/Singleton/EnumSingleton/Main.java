@@ -1,4 +1,4 @@
-package LLD2.DesignPatterns.Singleton.EnumSingleton;
+package LLD2.DesignPatterns.CreationalType.Singleton.EnumSingleton;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,10 +1,11 @@
 package LLD1.JavaAdvanceConcepts.ExceptionHandlingAndMiscellaneousTopics.UncheckedException;
 
-public class UncheckedExample2 {
+public class NullPointerExceptionExample {
     public static void main(String[] args) {
+        String name = null;
 
-        String s = null;
-        System.out.println(s.length()); // NPE
+        System.out.println(name.length()); // NullPointerException
     }
 }
+
 

@@ -1,4 +1,4 @@
-package LLD2.DesignPatterns.Prototype;
+package LLD2.DesignPatterns.CreationalType.Prototype;
 
 public class Main {
     public static void main(String[] args) {

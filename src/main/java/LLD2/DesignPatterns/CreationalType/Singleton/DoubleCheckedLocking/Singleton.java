@@ -1,4 +1,4 @@
-package LLD2.DesignPatterns.Singleton.DoubleCheckedLocking;
+package LLD2.DesignPatterns.CreationalType.Singleton.DoubleCheckedLocking;
 
 class Singleton {
 

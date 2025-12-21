@@ -1,4 +1,4 @@
-package LLD2.DesignPatterns.Singleton.EagerInitialization;
+package LLD2.DesignPatterns.CreationalType.Singleton.EagerInitialization;
 
 class Singleton {
 

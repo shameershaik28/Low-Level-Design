@@ -1,11 +1,12 @@
 package LLD1.JavaAdvanceConcepts.ExceptionHandlingAndMiscellaneousTopics.UncheckedException;
 
-public class UncheckedExample1 {
+public class ArithmeticExceptionExample {
     public static void main(String[] args) {
+        int a = 10;
+        int b = 0;
 
-        int a = 10 / 0;  // division by zero → runtime error
-
-        System.out.println("This will not print");
+        System.out.println(a / b); // ArithmeticException
     }
 }
+
 

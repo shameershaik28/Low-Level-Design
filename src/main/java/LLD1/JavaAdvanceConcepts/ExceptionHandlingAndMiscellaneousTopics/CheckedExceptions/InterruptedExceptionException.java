@@ -1,6 +1,6 @@
 package LLD1.JavaAdvanceConcepts.ExceptionHandlingAndMiscellaneousTopics.CheckedExceptions;
 
-public class CheckedException3 {
+public class InterruptedExceptionException {
     public static void main(String[] args) {
         //Using Try-Catch
 

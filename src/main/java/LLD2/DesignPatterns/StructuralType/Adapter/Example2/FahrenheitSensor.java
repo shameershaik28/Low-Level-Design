@@ -1,4 +1,8 @@
 package LLD2.DesignPatterns.StructuralType.Adapter.Example2;
 
-public class FahrenheitSensor {
+class FahrenheitSensor {
+    public double getTemperatureInFahrenheit() {
+        return 98.6;
+    }
 }
+

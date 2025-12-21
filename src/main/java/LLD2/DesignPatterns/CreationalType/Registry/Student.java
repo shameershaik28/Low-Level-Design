@@ -1,4 +1,4 @@
-package LLD2.DesignPatterns.Registry;
+package LLD2.DesignPatterns.CreationalType.Registry;
 
 class Student implements Prototype {
 

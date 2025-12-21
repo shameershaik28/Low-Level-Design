@@ -1,4 +1,4 @@
-package LLD2.DesignPatterns.Singleton;
+package LLD2.DesignPatterns.CreationalType.Singleton;
 
 public abstract class BaseSettings {
 

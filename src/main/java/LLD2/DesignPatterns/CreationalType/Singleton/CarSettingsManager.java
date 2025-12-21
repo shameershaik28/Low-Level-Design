@@ -1,4 +1,4 @@
-package LLD2.DesignPatterns.Singleton;
+package LLD2.DesignPatterns.CreationalType.Singleton;
 
 public class CarSettingsManager extends BaseSettings {
 

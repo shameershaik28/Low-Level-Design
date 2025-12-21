@@ -1,4 +1,4 @@
-package LLD2.DesignPatterns.Registry;
+package LLD2.DesignPatterns.CreationalType.Registry;
 
 public class Main {
     public static void main(String[] args) {

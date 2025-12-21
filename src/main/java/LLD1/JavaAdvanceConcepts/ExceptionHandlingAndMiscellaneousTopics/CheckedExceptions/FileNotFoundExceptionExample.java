@@ -2,7 +2,7 @@ package LLD1.JavaAdvanceConcepts.ExceptionHandlingAndMiscellaneousTopics.Checked
 
 import java.io.*;
 
-public class CheckedExample1 {
+public class FileNotFoundExceptionExample {
     public static void main(String[] args) {
      //Using Try-Catch
 
