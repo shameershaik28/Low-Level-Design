@@ -3,11 +3,11 @@ package LLD1.OOPS.AbstractClass;
 public class Main {
     public static void main(String[] args) {
 
-        Shape s1 = new Circle();
-        Shape s2 = new Rectangle();
+        Payment payment = new CreditCardPayment(10000 );
 
-        s1.draw();
-        s2.draw();
-        s1.info();
+        payment.showBalance(); // concrete method
+        payment.pay(3000);     // overridden method
+        payment.showBalance();
+
     }
 }
