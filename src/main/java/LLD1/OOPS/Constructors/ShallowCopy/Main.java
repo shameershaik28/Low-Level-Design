@@ -8,6 +8,7 @@ public class Main {
 
         s2.address.city = "Hyderabad";
 
+        System.out.println(s1.equals(s2));
         System.out.println(s1.name + " " + s1.age + " " + s1.address.city);
         System.out.println(s2.name + " " + s2.age + " " + s2.address.city);
 

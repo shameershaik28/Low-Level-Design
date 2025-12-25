@@ -11,6 +11,7 @@ public class Main {
 
         System.out.println();
 
+        System.out.println(t1.equals(t2));
         t2.location.cityName = "Hyderabad";
 
         System.out.println(t1.name + " " + t1.age + " " + t1.location.cityName);
