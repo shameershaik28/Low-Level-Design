@@ -1,4 +1,4 @@
-package LLD1.Concurrency.Threads.Atomic.AtomicReference;
+package LLD1.Concurrency.AtomicDataTypes.AtomicReference;
 
 import java.util.concurrent.atomic.AtomicReference;
 

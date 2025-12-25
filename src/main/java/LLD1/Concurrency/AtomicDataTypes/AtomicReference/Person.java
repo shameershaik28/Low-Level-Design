@@ -1,4 +1,4 @@
-package LLD1.Concurrency.Threads.Atomic.AtomicReference;
+package LLD1.Concurrency.AtomicDataTypes.AtomicReference;
 
 class Person {
     String name;

@@ -1,4 +1,4 @@
-package LLD1.Concurrency.Threads.Atomic.AtomicInteger;
+package LLD1.Concurrency.AtomicDataTypes.AtomicInteger;
 
 public class AtomicExample {
     public static void main(String[] args) throws Exception {

@@ -1,4 +1,4 @@
-package LLD1.JavaAdvanceConcepts.StreamsAndLambdas.FunctionalInterface;
+package LLD1.OOPS.Interface.FunctionalInterface;
 
 public class Main {
     public static void main(String[] args) {

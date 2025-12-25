@@ -1,4 +1,4 @@
-package LLD1.Concurrency.Threads.Atomic.AtomicBoolean;
+package LLD1.Concurrency.AtomicDataTypes.AtomicBoolean;
 
 import java.util.concurrent.atomic.AtomicBoolean;
 
