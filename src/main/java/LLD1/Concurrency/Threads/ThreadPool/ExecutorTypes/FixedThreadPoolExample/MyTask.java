@@ -1,4 +1,4 @@
-package LLD1.Concurrency.Threads.ThreadPool.ExecutorService;
+package LLD1.Concurrency.Threads.ThreadPool.ExecutorTypes.FixedThreadPoolExample;
 
 public class MyTask implements Runnable{
 
